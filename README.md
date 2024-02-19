@@ -33,4 +33,3 @@ Locally preview the react app.
 
 Build and deploy the react app.
 `npm run deploy`
-
