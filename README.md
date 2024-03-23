@@ -1,12 +1,10 @@
-# ward-bot
+# rank-ward
 
-ward-bot is a Discord bot that provides live stats for League of Legends players from the Riot Games APIs.
-
-# Comprehensive Guide
+rank-ward is a Discord bot that provides live stats for League of Legends players from the Riot Games APIs.
 
 ## Set-up
 I bootstrapped the project in create-react-app.
-```npx create-react-app ward-bot```
+```npx create-react-app rank-ward```
 
 You must create the repo on GitHub. You cannot initialize a GitHub repo in the command line. This is because Git and GitHub are 2 different things. Git is a version control system and GitHub is just a host for git repos. 
 
