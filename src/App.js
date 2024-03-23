@@ -14,7 +14,6 @@ import React, { useState, useEffect } from "react";
 import TextField from "@mui/material/TextField";
 
 const API_URL = "na1.api.riotgames.com";
-
 const API_KEY = process.env.REACT_APP_API_KEY;
 
 let iconID = 0;
