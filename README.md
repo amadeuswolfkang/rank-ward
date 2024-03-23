@@ -2,8 +2,6 @@
 
 rank-ward is a Discord bot that provides live stats for League of Legends players from the Riot Games APIs.
 
-# Comprehensive Guide
-
 ## Set-up
 I bootstrapped the project in create-react-app.
 ```npx create-react-app rank-ward```
